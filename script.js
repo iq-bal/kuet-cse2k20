@@ -52,7 +52,8 @@ const persons = [
         qoute: '"Let Infinity be your Limit.Learn from yesterday, make present better for the future."', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         //    index 68 
@@ -70,7 +71,8 @@ const persons = [
         qoute: '"If you can’t explain something to a first-year student, then you haven’t really understood."', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         //    index 71
@@ -88,7 +90,8 @@ const persons = [
         qoute: '"আজকে ঘুমিয়ে যাই,কাল থেকে পড়তে বসবো।"', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 109
@@ -106,7 +109,8 @@ const persons = [
         qoute: '""', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 52
@@ -124,7 +128,8 @@ const persons = [
         qoute: '"Jack of all trades master of none. "', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 95
@@ -142,7 +147,8 @@ const persons = [
         qoute: '"You do not know what you have got Until it is gone."',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 94
@@ -160,7 +166,8 @@ const persons = [
         qoute: '"Tell them the North remembers. Tell them winter came for House Frey."',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 61
@@ -216,7 +223,8 @@ const persons = [
         qoute: '"যা হয়েছে তা ভালোই হয়েছে,যা হচ্ছে তা ভালোই হচ্ছে,যা হবে তা ভালোই হবে।যেমন কর্ম,তেমন ফল।"',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 103 
@@ -234,7 +242,8 @@ const persons = [
         qoute: '"2 green lines appearing on my Oneplus phone"',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 24 
@@ -271,7 +280,8 @@ const persons = [
         qoute: '"আমিও মানুষ, তুমিও মানুষ,তফাত শুধু শিরদাড়ায়।"',
         facebook:"https://www.facebook.com/mofazzal874",
         instagram:"",
-        github:"http://github.com/Mofazzal874"
+        github:"http://github.com/Mofazzal874",
+        dp: "pola.png"
     },
     {
         // index 60 
@@ -289,7 +299,8 @@ const persons = [
         qoute: '"Anger and love have no limits. The choice is yours!"',
         facebook:"https://www.facebook.com/as.rokon.35?mibextid=ZbWKwL",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
         // index 53
@@ -307,7 +318,9 @@ const persons = [
         qoute: '"1. It is the courage to continue that counts - W. Churchill 2. Life is short and live it to the fullest is such a vague idea - (my own actualisation)"',
         facebook:"https://www.facebook.com/profile.php?id=100010042549280&mibextid=ZbWKwL",
         instagram:"https://www.instagram.com/_kaizen____",
-        github:""
+        github:"",
+        dp: "pola.png"
+        // dp:"images/kazi.jpeg"
     },
     {
         // index 26
@@ -325,7 +338,8 @@ const persons = [
         qoute: '"So what life is not perfect?This is not heaven."',
         facebook:"https://www.facebook.com/abirzishan32?mibextid=ZbWKwL",
         instagram:"https://www.instagram.com/abir.zishan",
-        github:"https://github.com/abirzishan32"
+        github:"https://github.com/abirzishan32",
+        dp: "pola.png"
     },
     {
         // index 26
@@ -343,7 +357,8 @@ const persons = [
         qoute: '"আমরা সবাই পাপী,আপন পাপের বাটখারা দিয়ে অন্যের পাপ মাপি"',
         facebook:"https://www.facebook.com/Mosabbir.Hossen08",
         instagram:"https://www.instagram.com/Mosabbir08",
-        github:"https://github.com/"
+        github:"https://github.com/",
+        dp: "pola.png"
     },
     {
         // index 26
@@ -361,7 +376,8 @@ const persons = [
         qoute: '"There is always some madness in love. But there is also always some reason in madness."',
         facebook:"https://www.facebook.com/raufun.ahsan",
         instagram:"https://www.instagram.com/",
-        github:"https://github.com/taut0logy"
+        github:"https://github.com/taut0logy",
+        dp: "pola.png"
     },
     {
         // index 26
@@ -417,7 +433,8 @@ const persons = [
         qoute: '""',
         facebook:"https://www.facebook.com/",
         instagram:"https://www.instagram.com/",
-        github:"https://github.com/"
+        github:"https://github.com/",
+        dp: "pola.png"
     },
     {
         // index 16
@@ -492,7 +509,8 @@ const persons = [
         qoute: ' "After all this time". "Always". "😭" ',
         facebook:"https://www.facebook.com/muhitul1?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 72 
@@ -529,7 +547,8 @@ const persons = [
         qoute: '"You fear death, would you rather be immortal? Live life in totality, though you may die life will Continue forever" - Schiller',
         facebook:"http://facebook.com/tanzirmannan.turzo",
         instagram:"https://www.instagram.com/alex.mturzo/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 73 
@@ -547,7 +566,8 @@ const persons = [
         qoute: '"এটা চিন্তা না করা যে আমি মানুষকে সময় দিচ্ছি বরং এটা ভাবার চেষ্টা করা যে আমার যেটা ঐ পার্টিকুলার মোমেন্টে ভাল্লাগতেসে সেটাই কিন্তু করতেসি।"',
         facebook:"https://www.facebook.com/itz.alh.shuvo?mibextid=ZbWKwL",
         instagram:"https://instagram.com/alh_shuvo?igshid=ZDdkNTZiNTM=",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 62 
@@ -565,7 +585,8 @@ const persons = [
         qoute: '"তোমার কি দোজখের ভয় নাই পহেলিকা?"',
         facebook:"https://www.facebook.com/ahsanul.haque.hasib.188?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 113  
@@ -602,7 +623,8 @@ const persons = [
         qoute: '"কাটে না সময় যখন আর কিছুতে,সরিষার তেল মেখে....."',
         facebook:"https://www.facebook.com/000oy",
         instagram:"https://instagram.com/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 62  
@@ -620,7 +642,8 @@ const persons = [
         qoute: '"Go on;Burn a while.Do not hide who you are."',
         facebook:"https://www.facebook.com/swapnil.kundu.90?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: "pola.png"
     },
     {
         // index 64 
@@ -638,7 +661,8 @@ const persons = [
         qoute: '"Go Beyond Plus Ultra", "আমি ভরা-তরী করি ভরা-ডুবি, আমি টর্পেডো আমি ভীম ভাসমান মাইন!"',
         facebook:"https://www.facebook.com/creedofarhan?mibextid=ZbWKwL",
         instagram:"https://instagram.com/farhanmirazshihab?igshid=ZDdkNTZiNTM=",
-        github:"https://github.com/N8-Hawk"
+        github:"https://github.com/N8-Hawk",
+        dp: "pola.png"
     },
     {
         // index 85  
@@ -675,7 +699,8 @@ const persons = [
         qoute: '"জানি এসেছিলাম একা , যেতে হবে একা; তাও মাঝখানে কুয়েটে কেন এলাম একা একা!"',
         facebook:"https://www.facebook.com/AB.Shafi0.9?mibextid=LQQJ4d",
         instagram:"https://instagram.com/shafi__abdullah",
-        github:"https://github.com/C-loud-Nine"
+        github:"https://github.com/C-loud-Nine",
+        dp: "pola.png"
     },
     {
         // index 105 
@@ -703,15 +728,16 @@ const buttons = document.querySelectorAll('.aboutMe');
 const modalBg = document.querySelector('.modal-container');
 const modalClose = document.querySelector('.modal-close');
 const swiperPagination = document.querySelector('.swiper-pagination'); 
-// const swiperPagination = document.getElementsByClassName('.swiper-pagination'); 
 // Add event listener to each button
 buttons.forEach(button => {
     button.addEventListener('click', () => {
         const buttonValue = button.value;
         // console.log(persons[buttonValue].dp); 
-        if(typeof persons[buttonValue].dp!=='undefined'){
-            document.getElementById('dp').src=persons[buttonValue].dp; 
-        }
+        // if(typeof persons[buttonValue].dp!=='undefined'){
+        //     document.getElementById('dp').src=persons[buttonValue].dp; 
+        // }
+        document.getElementById('dp').src=persons[buttonValue].dp; 
+
         const name = document.getElementById('name');
         const roll = document.getElementById('roll');
         const mobile = document.getElementById('mobile');
