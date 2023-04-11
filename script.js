@@ -448,6 +448,24 @@ const persons = [
         facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
         instagram:"http://www.instagram.com/shanzida_mim33",
         github:"http://github.com/"
+    },
+    {
+        // index 78
+        name: "Tasfia zaman samiha",
+        roll: "2007078",
+        mobile: "01879-770088",
+        dob: "1/23/2012",
+        blood: "B+",
+        address: "Farmgate,Dhaka  ",
+        nickname: "সাম্বা",
+        personality: "পাস্তা যারা বানায়।",
+        pov: "আমি যে বোকাঠাকুর এটা যাতে কেও না বোঝে ।",
+        candle: "আমার সাথে কেও যেতে চাইবে না। আমি সবার খাবার খেয়ে ফেলি।",
+        moment: "যখন ক্যাম্পাস থেকে বের হয়ে পাস্তা খেতে যাই।",
+        qoute: '"পাস্তা পাস্তা"',
+        facebook:"https://www.facebook.com/Tasfia.007",
+        instagram:"https://instagram.com/samihatasfiazaman?igshid=YmMyMTA2M2Y=",
+        github:"http://github.com/"
     }
 ]; 
 
