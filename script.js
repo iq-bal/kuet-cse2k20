@@ -610,6 +610,78 @@ const persons = [
         facebook:"https://www.facebook.com/swapnil.kundu.90?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
         github:"http://github.com/"
+    },
+    {
+        // index 64 
+        name: "ফারহান মিরাজ সিহাব",
+        roll: "2007064",
+        mobile: "01767777470",
+        dob: "9/22/2000",
+        blood: "A+",
+        address: "বাসা/হোল্ডিং: 0645-01, গ্রাম/রাস্তা: কোদালিয়া, ডাকঘর : টাঙ্গাইল সদর - ১৯০০, টাঙ্গাইল সদর, টাঙ্গাইল পৌরসভা,  টাঙ্গাইল",
+        nickname: "মিরু",
+        personality: "প্রিয় ব্যাক্তিত্ত্ব কেউ নাই কিছু কিছু মানুষের কথা হয়ত ভাললাগে।",
+        pov: "আস্থাবান",
+        candle: "মেহেরু এবং  ইটালিয়ান আন্টোয়ান",
+        moment: "কন্সার্ট,  বিশেষত মেঘদলের অংশ",
+        qoute: '"Go Beyond Plus Ultra", "আমি ভরা-তরী করি ভরা-ডুবি, আমি টর্পেডো আমি ভীম ভাসমান মাইন!"',
+        facebook:"https://www.facebook.com/creedofarhan?mibextid=ZbWKwL",
+        instagram:"https://instagram.com/farhanmirazshihab?igshid=ZDdkNTZiNTM=",
+        github:"https://github.com/N8-Hawk"
+    },
+    {
+        // index 85  
+        name: "Sayaka Alam",
+        roll: "2007085",
+        mobile: "'01759548107",
+        dob: "9/26/2001",
+        blood: "B+",
+        address: "স্যার হতে দূরে, শীতল ফ্যান এর নিচে",
+        nickname: "সাইকাস",
+        personality: "Tom Cruise ",
+        pov: "ট্রিট এবং সালামী আমার মত গরিবেরই প্রাপ্য!",
+        candle: "Shayka Islam and Laboni Rahman ",
+        moment: "প্রথম যেদিন সফলভাবে পেছনের দরজা দিয়ে পালিয়েছি ",
+        qoute: '"লেখাপড়া করে যে, গাড়িঘোড়ায় চড়ে সে!"',
+        facebook:"https://www.facebook.com/",
+        instagram:"https://instagram.com/sayaka_alam",
+        github:"https://github.com/"
+    },
+    {
+        // index 55 
+        name: "Abdullah Al Shafi",
+        roll: "2007055",
+        mobile: "01716138104",
+        dob: "6/2/2003",
+        blood: "A+",
+        address: "Earth(Flat)",
+        nickname: "কেউ ডাকে না!",
+        personality: "আমার বিড়াল",
+        pov: "যেকোনো বিড়ালের মত করে",
+        candle: "আমি মেবি রাতকানা",
+        moment: "যখন ক্যাম্পাস থেকে বের হই",
+        qoute: '"জানি এসেছিলাম একা , যেতে হবে একা; তাও মাঝখানে কুয়েটে কেন এলাম একা একা!"',
+        facebook:"https://www.facebook.com/AB.Shafi0.9?mibextid=LQQJ4d",
+        instagram:"https://instagram.com/shafi__abdullah",
+        github:"https://github.com/C-loud-Nine"
+    },
+    {
+        // index 105 
+        name: "মারুফা আক্তার মীম",
+        roll: "2007105",
+        mobile: "01575606177",
+        dob: "4/20/2002",
+        blood: "A+",
+        address: "ব্রাহ্মণবাড়িয়া ",
+        nickname: "প্রিয় মীম",
+        personality: "নিজে",
+        pov: "আমি সত্যিকার অর্থেই যেমন ",
+        candle: "আজহার",
+        moment: "বৃষ্টির আগ মুহুর্তে প্রিয়জনের সাথে ক্যাম্পাসের রাস্তায় হাটা",
+        qoute: '"গতে শোকো ন কর্তব্যো ভবিষ্যৎ নৈব চিন্তয়েত বর্তমানেন কালেন প্রবর্ত্তন্তে বিচক্ষণা"',
+        facebook:"https://www.facebook.com/heymarufa",
+        instagram:"https://instagram.com/",
+        github:"https://github.com/"
     }
 ]; 
 
