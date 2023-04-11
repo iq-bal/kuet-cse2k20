@@ -376,6 +376,78 @@ const persons = [
         facebook:"https://www.facebook.com/shaeer.musarrat",
         instagram:"https://www.instagram.com/musarrat_swapnil",
         github:"https://github.com/taut0logy"
+    },
+    {
+        // index 39
+        name: "মেহেরু জান্নাত",
+        roll: "2007039",
+        mobile: "01405953515",
+        dob: "10/20/2001",
+        blood: "B+",
+        address: "Dhaka",
+        nickname: "Meheru",
+        personality: "আমি নিজে",
+        pov: "hot",
+        candle: "No one",
+        moment: "None",
+        qoute: '"None"',
+        facebook:"https://www.facebook.com/",
+        instagram:"https://www.instagram.com/",
+        github:"https://github.com/"
+    },
+    {
+        // index 16
+        name: "Md.Umar Faruk",
+        roll: "2007016",
+        mobile: "01740976043",
+        dob: "2/2/2002",
+        blood: "B+",
+        address: "Natore",
+        nickname: "Faruk",
+        personality: "",
+        pov: "",
+        candle: "",
+        moment: "",
+        qoute: '""',
+        facebook:"https://www.facebook.com/",
+        instagram:"https://www.instagram.com/",
+        github:"https://github.com/"
+    },
+    {
+        // index 16
+        name: "Mayesha Marzia Zaman",
+        roll: "2007088",
+        mobile: "01763120707",
+        dob: "11/15/2001",
+        blood: "B+",
+        address: "Bogura",
+        nickname: "Picchi Mashu",
+        personality: "Itself 🤍",
+        pov: "Gutu_gutu_nabbo! As a very much simple & confident girl",
+        candle: "Sepunil × shanzu",
+        moment: "Shoptasso'17 Rag Concert × RIAD",
+        qoute: '"Chad mama aj boddo aka ..Boro hoyechi ami"',
+        facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
+        instagram:"http://www.instagram.com/boom_chikchik.boom_",
+        github:"http://github.com/Mashu-wq"
+    },
+    {
+        // index 16
+        name: "Shanzida Rahman Mim ",
+        roll: "2007087",
+        mobile: "01301561542",
+        dob: "7/27/2000",
+        blood: "O+",
+        address: "Kushtia ",
+        nickname: "Mim",
+        personality: "Amr boro apu",
+        pov: "Confident ",
+        candle: "Swapnil r mayeshar sathe boshe jboni🙂",
+        moment: "Hangout 2.0",
+        qoute: '"Jnina🙂"',
+        facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
+        instagram:"http://www.instagram.com/shanzida_mim33",
+        github:"http://github.com/"
     }
 ]; 
 
