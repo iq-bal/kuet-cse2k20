@@ -334,7 +334,7 @@ const persons = [
         nickname: "Daddy",
         personality: "Rifat",
         pov: "দেখতেই চায় না",
-        candle: "আমার প্রেয়সী",
+        candle: "",
         moment: "Rag Concert",
         qoute: '"আমরা সবাই পাপী,আপন পাপের বাটখারা দিয়ে অন্যের পাপ মাপি"',
         facebook:"https://www.facebook.com/Mosabbir.Hossen08",
