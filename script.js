@@ -88,7 +88,116 @@ const persons = [
         facebook:"",
         instagram:"",
         github:""
+    },
+    {
+        // index 109
+        name: "সৌরভ দেবনাথ",
+        roll: "২০০৭১০৯",
+        mobile: "01614981899",
+        dob: "11/1/2002",
+        blood: "O+",
+        address: "tangail",
+        nickname: "sourav",
+        personality: "",
+        pov: "", 
+        candle: "",
+        moment: "",
+        qoute: '""', 
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 52
+        name: "ইফতি হাসান",
+        roll: "২০০৭০৫২",
+        mobile: "01749289438",
+        dob: "1/1/2002",
+        blood: "O+",
+        address: "Gazipur",
+        nickname: "Efty",
+        personality: "Shakib Al Hasan",
+        pov: "Decent", 
+        candle: "Tanzir Mannan Turzo",
+        moment: "Rag concert of 2k17 batch",
+        qoute: '"Jack of all trades master of none. "', 
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 95
+        name: "নাফিউল ইসলাম",
+        roll: "২০০৭০৯৫",
+        mobile: "01521729170",
+        dob: "9/16/2002",
+        blood: "O+",
+        address: "Rajshahi",
+        nickname: "Naiffa",
+        personality: "হযরত মোহাম্মদ (সঃ)",
+        pov: "Reliable, Responsible", 
+        candle: "Taylor Swift",
+        moment: "Anytime with friends except class hour",
+        qoute: '"You do not know what you have got Until it is gone."',
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 94
+        name: "অনির্বাণ ঘোষ অর্ঘ্য",
+        roll: "২০০৭০৯৪",
+        mobile: "01746547259",
+        dob: "3/19/2002",
+        blood: "O+",
+        address: "Padma Residential Area, Rajshahi ",
+        nickname: "Bara",
+        personality: "Not specific ",
+        pov: "Being myself", 
+        candle: "None",
+        moment: "Rag concert",
+        qoute: '"Tell them the North remembers. Tell them winter came for House Frey."',
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 61
+        name: "সানজিদা তিথী",
+        roll: "2007061",
+        mobile: "01740745352",
+        dob: "8/27/2023",
+        blood: "A+",
+        address: "Satkhira",
+        nickname: "Tithi",
+        personality: "Shakib Al Hasan",
+        pov: "An honest woman", 
+        candle: "Farzana Rahman ani",
+        moment: "",
+        qoute: '""',
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 108
+        name: "লাবণী রহমান",
+        roll: "2007108",
+        mobile: "01749493715",
+        dob: "7/17/2002",
+        blood: "O+",
+        address: "Barishal",
+        nickname: "Laboni",
+        personality: "Ammu",
+        pov: "I don't care for others", 
+        candle: "Labonno",
+        moment: "When i get to know CT is cancelled ",
+        qoute: '"Pera nai,Chill."',
+        facebook:"",
+        instagram:"",
+        github:""
     }
+    
 ]; 
 
 // Get all buttons with the same class name
