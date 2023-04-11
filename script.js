@@ -216,7 +216,7 @@ const persons = [
         github:""
     },
     {
-        // index 98
+        // index 103 
         name: "ফাইয়াজ মাহমুদ",
         roll: "2007103",
         mobile: "01968828663",
@@ -234,7 +234,7 @@ const persons = [
         github:""
     },
     {
-        // index 103
+        // index 24 
         name: "ফারিহা সানজানা",
         roll: "2007024",
         mobile: "01575633177",
@@ -250,6 +250,24 @@ const persons = [
         facebook:"",
         instagram:"",
         github:""
+    },
+    {
+        // index 74  
+        name: "মোফাজ্জল হোসেন",
+        roll: "2007074",
+        mobile: "01735059979",
+        dob: "11/15/2001",
+        blood: "B+",
+        address: "Gazipur",
+        nickname: "মাওলানা মোফা",
+        personality: "ঠিক করা হয়নি ",
+        pov: "ভালো মানুষ",
+        candle: "Saad uddin",
+        moment: "Street painting",
+        qoute: '"আমিও মানুষ, তুমিও মানুষ,তফাত শুধু শিরদাড়ায়।"',
+        facebook:"https://www.facebook.com/mofazzal874",
+        instagram:"",
+        github:"http://github.com/Mofazzal874"
     }
     
 ]; 
