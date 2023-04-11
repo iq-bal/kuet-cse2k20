@@ -358,8 +358,25 @@ const persons = [
         facebook:"https://www.facebook.com/raufun.ahsan",
         instagram:"https://www.instagram.com/",
         github:"https://github.com/taut0logy"
+    },
+    {
+        // index 26
+        name: "Shaeer Musarrat Swapnil",
+        roll: "2007116",
+        mobile: "'01533865121",
+        dob: "'9/25/2003",
+        blood: "B+",
+        address: "Sector#12, Uttara,Dhaka-1230",
+        nickname: "Sepnil",
+        personality: "Abbu",
+        pov: "Most trustable one",
+        candle: "Mim-87, Mayesha-88",
+        moment: "Ramadam-2k23",
+        qoute: '""',
+        facebook:"https://www.facebook.com/shaeer.musarrat",
+        instagram:"https://www.instagram.com/musarrat_swapnil",
+        github:"https://github.com/taut0logy"
     }
-    
 ]; 
 
 // Get all buttons with the same class name
