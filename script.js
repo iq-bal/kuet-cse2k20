@@ -33,7 +33,8 @@ const persons = [
         qoute: '"কাল সিটি ক্যান্সেল"- সি আর', 
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: "pola.png"
     },
     {
     //    index 112 
@@ -177,7 +178,8 @@ const persons = [
         qoute: '""',
         facebook:"",
         instagram:"",
-        github:""
+        github:"", 
+        dp: 'meye.png'
     },
     {
         // index 108
@@ -195,7 +197,8 @@ const persons = [
         qoute: '"Pera nai,Chill."',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: 'meye.png'
     },
     {
         // index 98
@@ -249,7 +252,8 @@ const persons = [
         qoute: '""',
         facebook:"",
         instagram:"",
-        github:""
+        github:"",
+        dp: 'meye.png'
     },
     {
         // index 74  
@@ -375,7 +379,8 @@ const persons = [
         qoute: '""',
         facebook:"https://www.facebook.com/shaeer.musarrat",
         instagram:"https://www.instagram.com/musarrat_swapnil",
-        github:"https://github.com/taut0logy"
+        github:"https://github.com/taut0logy",
+        dp: 'meye.png'
     },
     {
         // index 39
@@ -393,7 +398,8 @@ const persons = [
         qoute: '"None"',
         facebook:"https://www.facebook.com/",
         instagram:"https://www.instagram.com/",
-        github:"https://github.com/"
+        github:"https://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 16
@@ -429,7 +435,8 @@ const persons = [
         qoute: '"Chad mama aj boddo aka ..Boro hoyechi ami"',
         facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
         instagram:"http://www.instagram.com/boom_chikchik.boom_",
-        github:"http://github.com/Mashu-wq"
+        github:"http://github.com/Mashu-wq",
+        dp: 'meye.png'
     },
     {
         // index 16
@@ -447,7 +454,8 @@ const persons = [
         qoute: '"Jnina🙂"',
         facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
         instagram:"http://www.instagram.com/shanzida_mim33",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 78
@@ -465,7 +473,8 @@ const persons = [
         qoute: '"পাস্তা পাস্তা"',
         facebook:"https://www.facebook.com/Tasfia.007",
         instagram:"https://instagram.com/samihatasfiazaman?igshid=YmMyMTA2M2Y=",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 13 
@@ -501,7 +510,8 @@ const persons = [
         qoute: ' "আমি সৃষ্টি তাই স্রষ্টায় ভালোবাসি" "One could not count the moons that shimmer on her roofs,Or the thousand splendid suns that hide behind her walls."',
         facebook:"https://www.facebook.com/hafsa.tazrian?mibextid=ZbWKwL",
         instagram:"https://instagram.com/taz_rian_?igshid=ZDdkNTZiNTM=",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 48
@@ -573,7 +583,8 @@ const persons = [
         qoute: '"Allah amare job dao"',
         facebook:"https://www.facebook.com/",
         instagram:"https://instagram.com/",
-        github:"http://github.com/"
+        github:"http://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 86 
@@ -645,7 +656,8 @@ const persons = [
         qoute: '"লেখাপড়া করে যে, গাড়িঘোড়ায় চড়ে সে!"',
         facebook:"https://www.facebook.com/",
         instagram:"https://instagram.com/sayaka_alam",
-        github:"https://github.com/"
+        github:"https://github.com/",
+        dp: 'meye.png'
     },
     {
         // index 55 
@@ -681,7 +693,8 @@ const persons = [
         qoute: '"গতে শোকো ন কর্তব্যো ভবিষ্যৎ নৈব চিন্তয়েত বর্তমানেন কালেন প্রবর্ত্তন্তে বিচক্ষণা"',
         facebook:"https://www.facebook.com/heymarufa",
         instagram:"https://instagram.com/",
-        github:"https://github.com/"
+        github:"https://github.com/",
+        dp: 'meye.png'
     }
 ]; 
 
@@ -695,6 +708,10 @@ const swiperPagination = document.querySelector('.swiper-pagination');
 buttons.forEach(button => {
     button.addEventListener('click', () => {
         const buttonValue = button.value;
+        // console.log(persons[buttonValue].dp); 
+        if(typeof persons[buttonValue].dp!=='undefined'){
+            document.getElementById('dp').src=persons[buttonValue].dp; 
+        }
         const name = document.getElementById('name');
         const roll = document.getElementById('roll');
         const mobile = document.getElementById('mobile');
@@ -707,7 +724,6 @@ buttons.forEach(button => {
         const candle = document.getElementById('candle');
         const moment = document.getElementById('moment');
         const qoute = document.getElementById('qoute'); 
-
 
         name.innerText = persons[buttonValue].name;
         roll.innerText=persons[buttonValue].roll;
