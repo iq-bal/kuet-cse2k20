@@ -268,6 +268,96 @@ const persons = [
         facebook:"https://www.facebook.com/mofazzal874",
         instagram:"",
         github:"http://github.com/Mofazzal874"
+    },
+    {
+        // index 60 
+        name: "Al Shahriar Rokon ",
+        roll: "2007060",
+        mobile: "01738039267",
+        dob: "12/30/2002",
+        blood: "A+",
+        address: "Nachole,Chapainawabganj, Rajshahi",
+        nickname: "Rokon",
+        personality: "Elon Reeve Musk",
+        pov: "বিশ্বস্ত",
+        candle: "যার মাথায় প্রশ্নটা এসেছে",
+        moment: "ফুটবলে চ্যাম্পিয়ন হওয়া",
+        qoute: '"Anger and love have no limits. The choice is yours!"',
+        facebook:"https://www.facebook.com/as.rokon.35?mibextid=ZbWKwL",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 53
+        name: "Kazi Tasrif",
+        roll: "2007053",
+        mobile: "01732507717",
+        dob: "12/21/2000",
+        blood: "B+",
+        address: "12/8, Road no: 01, Kallayanpur, Dhaka",
+        nickname: "Kazi",
+        personality: "I lack in this. Promise I will make myself truly search for this.",
+        pov: "A man they can trust I guess.",
+        candle: "Mofazzal and Apan are men with humour. Rest of them are just too tall :((",
+        moment: "The day shall come I believe. But for now many memorable moments are scattered all through from the beginning to up until now.",
+        qoute: '"1. It is the courage to continue that counts - W. Churchill 2. Life is short and live it to the fullest is such a vague idea - (my own actualisation)"',
+        facebook:"https://www.facebook.com/profile.php?id=100010042549280&mibextid=ZbWKwL",
+        instagram:"https://www.instagram.com/_kaizen____",
+        github:""
+    },
+    {
+        // index 26
+        name: "Md Abir Rahman",
+        roll: "2007026",
+        mobile: "01712270663",
+        dob: "1/19/2002",
+        blood: "O+",
+        address: "Banasree, Dhaka",
+        nickname: "গাবির",
+        personality: "Cristiano Ronaldo",
+        pov: "I don't care how people see me",
+        candle: "আমার প্রেয়সী",
+        moment: "Rag concert of সপ্তাশ্ব '১৭",
+        qoute: '"So what life is not perfect?This is not heaven."',
+        facebook:"https://www.facebook.com/abirzishan32?mibextid=ZbWKwL",
+        instagram:"https://www.instagram.com/abir.zishan",
+        github:"https://github.com/abirzishan32"
+    },
+    {
+        // index 26
+        name: "Mosabbir Hossen",
+        roll: "2007032",
+        mobile: "01870890572",
+        dob: "5/13/2002",
+        blood: "B+",
+        address: "Narail",
+        nickname: "Daddy",
+        personality: "Rifat",
+        pov: "দেখতেই চায় না",
+        candle: "আমার প্রেয়সী",
+        moment: "Rag Concert",
+        qoute: '"আমরা সবাই পাপী,আপন পাপের বাটখারা দিয়ে অন্যের পাপ মাপি"',
+        facebook:"https://www.facebook.com/Mosabbir.Hossen08",
+        instagram:"https://www.instagram.com/Mosabbir08",
+        github:"https://github.com/"
+    },
+    {
+        // index 26
+        name: "Raufun Ahsan",
+        roll: "2007030",
+        mobile: "'01533865121",
+        dob: "10/12/2002",
+        blood: "B+",
+        address: "Mirpur, Dkhaka",
+        nickname: "Jolly boy 🥹",
+        personality: "Richard Feynman",
+        pov: "Capable yet caring",
+        candle: "Hanium Maria Joli",
+        moment: "Campfire-2022",
+        qoute: '"There is always some madness in love. But there is also always some reason in madness."',
+        facebook:"https://www.facebook.com/raufun.ahsan",
+        instagram:"https://www.instagram.com/",
+        github:"https://github.com/taut0logy"
     }
     
 ]; 
