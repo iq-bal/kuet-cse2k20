@@ -196,6 +196,60 @@ const persons = [
         facebook:"",
         instagram:"",
         github:""
+    },
+    {
+        // index 98
+        name: "বিশাল রায়",
+        roll: "2007098",
+        mobile: "01616028907",
+        dob: "2/10/2023",
+        blood: "B+",
+        address: "বোয়ালমারী,ফরিদপুর",
+        nickname: "গদা",
+        personality: "বাবা",
+        pov: '"ও একজন ভালো মানুষ,ওর দ্বারা কারো উপকার ব্যতীত ক্ষতি হয়নাই"',
+        candle: "সাবেকুন্নাহার নবনী(ওর সাথে আলাপচারিতার দরকার)",
+        moment: "এনিথিং(অর্গানাইজার হিসেবে থাকলে)",
+        qoute: '"যা হয়েছে তা ভালোই হয়েছে,যা হচ্ছে তা ভালোই হচ্ছে,যা হবে তা ভালোই হবে।যেমন কর্ম,তেমন ফল।"',
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 98
+        name: "ফাইয়াজ মাহমুদ",
+        roll: "2007103",
+        mobile: "01968828663",
+        dob: "2/27/2002",
+        blood: "A+",
+        address: "Lakshmipur, Chattogram, Bangladesh",
+        nickname: "Fairuz",
+        personality: "My maternal Grandfather",
+        pov: "Doesn't matter",
+        candle: "Got nobody",
+        moment: "Doing anything with my friends",
+        qoute: '"2 green lines appearing on my Oneplus phone"',
+        facebook:"",
+        instagram:"",
+        github:""
+    },
+    {
+        // index 103
+        name: "ফারিহা সানজানা",
+        roll: "2007024",
+        mobile: "01575633177",
+        dob: "9/13/2002",
+        blood: "B+",
+        address: "Village -Shahgoda, Thana- Muradnagar, District- Cumilla, Division - Chattogram",
+        nickname: "",
+        personality: "",
+        pov: "",
+        candle: "",
+        moment: "Pocket gate r adda",
+        qoute: '""',
+        facebook:"",
+        instagram:"",
+        github:""
     }
     
 ]; 
