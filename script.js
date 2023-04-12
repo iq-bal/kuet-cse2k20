@@ -34,7 +34,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/iqbal.jpg"
     },
     {
     //    index 112 
@@ -72,7 +72,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/faysal.jpg"
     },
     {
         //    index 71
@@ -91,7 +91,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/apan.jpg"
     },
     {
         // index 109
@@ -110,7 +110,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/sourav.jpg"
     },
     {
         // index 52
@@ -129,7 +129,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/efty.jpg"
     },
     {
         // index 95
@@ -186,7 +186,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"", 
-        dp: 'meye.png'
+        dp: 'images/tithi.jpg'
     },
     {
         // index 108
@@ -205,7 +205,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: 'meye.png'
+        dp: 'images/laboni.jpg'
     },
     {
         // index 98
@@ -224,7 +224,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/bishal.jpg"
     },
     {
         // index 103 
@@ -243,7 +243,7 @@ const persons = [
         facebook:"",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/faiyaz.jpg"
     },
     {
         // index 24 
@@ -300,7 +300,7 @@ const persons = [
         facebook:"https://www.facebook.com/as.rokon.35?mibextid=ZbWKwL",
         instagram:"",
         github:"",
-        dp: "pola.png"
+        dp: "images/rokon.jpg"
     },
     {
         // index 53
@@ -319,8 +319,7 @@ const persons = [
         facebook:"https://www.facebook.com/profile.php?id=100010042549280&mibextid=ZbWKwL",
         instagram:"https://www.instagram.com/_kaizen____",
         github:"",
-        dp: "pola.png"
-        // dp:"images/kazi.jpeg"
+        dp: "images/kazi.jpg"
     },
     {
         // index 26
@@ -358,7 +357,7 @@ const persons = [
         facebook:"https://www.facebook.com/Mosabbir.Hossen08",
         instagram:"https://www.instagram.com/Mosabbir08",
         github:"https://github.com/",
-        dp: "pola.png"
+        dp: "images/mosabbir.jpg"
     },
     {
         // index 26
@@ -377,7 +376,7 @@ const persons = [
         facebook:"https://www.facebook.com/raufun.ahsan",
         instagram:"https://www.instagram.com/",
         github:"https://github.com/taut0logy",
-        dp: "pola.png"
+        dp: "images/raufun.jpg"
     },
     {
         // index 26
@@ -396,7 +395,7 @@ const persons = [
         facebook:"https://www.facebook.com/shaeer.musarrat",
         instagram:"https://www.instagram.com/musarrat_swapnil",
         github:"https://github.com/taut0logy",
-        dp: 'meye.png'
+        dp: 'images/swapnil.jpg'
     },
     {
         // index 39
@@ -453,7 +452,7 @@ const persons = [
         facebook:"https://www.facebook.com/mayeshamarzia.zaman.3",
         instagram:"http://www.instagram.com/boom_chikchik.boom_",
         github:"http://github.com/Mashu-wq",
-        dp: 'meye.png'
+        dp: 'images/mayesha.jpg'
     },
     {
         // index 16
@@ -510,7 +509,7 @@ const persons = [
         facebook:"https://www.facebook.com/muhitul1?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
         github:"http://github.com/",
-        dp: "pola.png"
+        dp: "images/muhit.jpg"
     },
     {
         // index 72 
@@ -548,7 +547,7 @@ const persons = [
         facebook:"http://facebook.com/tanzirmannan.turzo",
         instagram:"https://www.instagram.com/alex.mturzo/",
         github:"http://github.com/",
-        dp: "pola.png"
+        dp: "images/turzo.jpg"
     },
     {
         // index 73 
@@ -567,7 +566,7 @@ const persons = [
         facebook:"https://www.facebook.com/itz.alh.shuvo?mibextid=ZbWKwL",
         instagram:"https://instagram.com/alh_shuvo?igshid=ZDdkNTZiNTM=",
         github:"http://github.com/",
-        dp: "pola.png"
+        dp: "images/shuvo.jpg"
     },
     {
         // index 62 
@@ -605,7 +604,7 @@ const persons = [
         facebook:"https://www.facebook.com/",
         instagram:"https://instagram.com/",
         github:"http://github.com/",
-        dp: 'meye.png'
+        dp: 'images/hanium.jpg'
     },
     {
         // index 86 
@@ -643,7 +642,7 @@ const persons = [
         facebook:"https://www.facebook.com/swapnil.kundu.90?mibextid=ZbWKwL",
         instagram:"https://instagram.com/",
         github:"http://github.com/",
-        dp: "pola.png"
+        dp: "images/kundu.jpg"
     },
     {
         // index 64 
