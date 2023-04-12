@@ -719,6 +719,25 @@ const persons = [
         instagram:"https://instagram.com/",
         github:"https://github.com/",
         dp: 'meye.png'
+    },
+    {
+        // index 106 
+        name: "Asif Akbar",
+        roll: "2007106",
+        mobile: "01533566113",
+        dob: "4/14/2001",
+        blood: "O+",
+        address: "ঝিনাইদহ",
+        nickname: "গাজন",
+        personality: "",
+        pov: "চাই না",
+        candle: "সবাইকে নিয়ে যাবো",
+        moment: "বন্ধুদের সাথে আড্ডা",
+        qoute: '"যদি থাকে নসিবে, আপনি আপনি আসিবে"',
+        facebook:"https://www.facebook.com/",
+        instagram:"https://instagram.com/",
+        github:"https://github.com/",
+        dp: 'pola.png'
     }
 ]; 
 
