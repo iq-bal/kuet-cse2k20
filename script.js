@@ -552,7 +552,7 @@ const persons = [
     },
     {
         // index 73 
-        name: "Abu Loman Hossain",
+        name: "Abu Loman Hossain Shuvo",
         roll: "2007073",
         mobile: "'01796902790",
         dob: "4/3/2002",
